@@ -26,5 +26,7 @@ Upload your solutions to the assigned homework in the appropriate
 folder. Make sure to use the filenames specified in the assignments.
 
 HW links:
+
 https://flask-assignment.jingxue8303.repl.co/
--https://flask-assignment.jingxue8303.repl.co/geo
+
+https://flask-assignment.jingxue8303.repl.co/geo
